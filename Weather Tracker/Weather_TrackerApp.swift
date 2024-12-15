@@ -12,6 +12,7 @@ struct Weather_TrackerApp: App {
     var body: some Scene {
         WindowGroup {
             MainView(viewModel: MainViewModel(repository: WeatherRepository()))
+                .loadFonts()
         }
     }
 }

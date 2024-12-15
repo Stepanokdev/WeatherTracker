@@ -40,15 +40,15 @@ struct VerticalStack: View {
         VStack(spacing: 8) {
             Text(title)
                 .foregroundColor(Color(.mediumGray))
-                .font(Fonts.labelMedium)
+                .font(.labelMedium)
             Text(value)
                 .foregroundColor(Color(.darkGray))
-                .font(Fonts.labelLarge)
+                .font(.labelLarge)
         }
     }
 }
 
 #Preview {
     DetailsView(humidity: 78, uv: 4, feelsLike: 22)
-        .loadFontsForPreviews()
+        .loadFonts()
 }

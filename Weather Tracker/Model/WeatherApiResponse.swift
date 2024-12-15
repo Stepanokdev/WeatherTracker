@@ -1,5 +1,5 @@
 //
-//  WeatherData.swift
+//  WeatherApiResponse.swift
 //  Weather Tracker
 //
 //  Created by Ivan Stepanok on 15.12.2024.
@@ -43,7 +43,7 @@ struct Current: Codable {
     let windDegree: Int
     let windDir: String
     let precipMm: Double
-    let humidity, cloud: Int
+    let humidity, cloud: Double
     let uv: Double
     let feelslike: Double
 
@@ -85,7 +85,7 @@ extension WeatherApiResponse {
                 region: location.region,
                 country: location.country
             ),
-            humidity: 78,
+            humidity: current.humidity,
             feelslike: current.feelslike
         )
     }

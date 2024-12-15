@@ -19,7 +19,7 @@ struct SearchFieldView: View {
                 prompt: (Text("Search location")
                     .foregroundColor(Color(.mediumGray)))
             )
-            .font(Fonts.labelLarge)
+            .font(.labelLarge)
             .padding(.leading, 15)
             Spacer()
             Image(.search)
@@ -34,5 +34,5 @@ struct SearchFieldView: View {
 #Preview {
     @Previewable @State var text = ""
     return SearchFieldView(text: $text)
-        .loadFontsForPreviews()
+        .loadFonts()
 }

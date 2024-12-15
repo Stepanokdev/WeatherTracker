@@ -23,13 +23,13 @@ struct CityDetailView: View {
                 HStack {
                     VStack(alignment: .leading, spacing: 0) {
                         Text(weather.location.name)
-                            .font(Fonts.titleLarge)
+                            .font(.titleLarge)
                             .multilineTextAlignment(.center)
                             .frame(alignment: .center)
                             .padding(.top, 7)
                         HStack(alignment: .top, spacing: 0) {
                             Text(String(Int(weather.temperature)))
-                                .font(Fonts.displayMedium)
+                                .font(.displayMedium)
                             Text("°")
                                 .font(.system(size: 20))
                                 .offset(y: 10)
@@ -52,5 +52,5 @@ struct CityDetailView: View {
 
 #Preview {
     CityDetailView(weather: .mock)
-        .loadFontsForPreviews()
+        .loadFonts()
 }

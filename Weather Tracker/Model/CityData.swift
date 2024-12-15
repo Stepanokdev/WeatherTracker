@@ -5,12 +5,6 @@
 //  Created by Ivan Stepanok on 15.12.2024.
 //
 
-
-//
-//  CityData.swift
-//  Weather Tracker
-//
-
 import Foundation
 
 // MARK: - CityData

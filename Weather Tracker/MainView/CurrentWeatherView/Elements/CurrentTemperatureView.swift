@@ -28,7 +28,7 @@ struct CurrentTemperatureView: View {
             }
             HStack(spacing: 8) {
                 Text(title)
-                    .font(Fonts.displaySmall)
+                    .font(.displaySmall)
                     .fontWeight(.semibold)
                     .lineLimit(2)
                     .multilineTextAlignment(.center)
@@ -36,10 +36,10 @@ struct CurrentTemperatureView: View {
             }
             HStack(alignment: .top) {
                 Text("\(temperature)")
-                    .font(Fonts.displayLarge)
+                    .font(.displayLarge)
                     .fontWeight(.semibold)
                 Text("°")
-                    .font(Fonts.headlineMedium)
+                    .font(.headlineMedium)
             }
             .padding(.top, 15)
         }
@@ -66,5 +66,5 @@ struct CurrentTemperatureView: View {
             temperature: 12
         )
     }
-    .loadFontsForPreviews()
+    .loadFonts()
 }

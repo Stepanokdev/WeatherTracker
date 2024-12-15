@@ -17,33 +17,15 @@
 		CE97544F2D0F13AD00ECC278 /* MainViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE97543E2D0F13AD00ECC278 /* MainViewModel.swift */; };
 		CE9754502D0F13AD00ECC278 /* WeatherModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9754402D0F13AD00ECC278 /* WeatherModel.swift */; };
 		CE9754512D0F13AD00ECC278 /* Weather_TrackerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9754462D0F13AD00ECC278 /* Weather_TrackerApp.swift */; };
-		CE9754522D0F13AD00ECC278 /* Poppins-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE9754222D0F13AD00ECC278 /* Poppins-Black.ttf */; };
-		CE9754532D0F13AD00ECC278 /* Poppins-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE9754232D0F13AD00ECC278 /* Poppins-BlackItalic.ttf */; };
-		CE9754542D0F13AD00ECC278 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE9754242D0F13AD00ECC278 /* Poppins-Bold.ttf */; };
-		CE9754552D0F13AD00ECC278 /* Poppins-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE9754252D0F13AD00ECC278 /* Poppins-BoldItalic.ttf */; };
-		CE9754562D0F13AD00ECC278 /* Poppins-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE9754262D0F13AD00ECC278 /* Poppins-ExtraBold.ttf */; };
-		CE9754572D0F13AD00ECC278 /* Poppins-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE9754272D0F13AD00ECC278 /* Poppins-ExtraBoldItalic.ttf */; };
-		CE9754582D0F13AD00ECC278 /* Poppins-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE9754282D0F13AD00ECC278 /* Poppins-ExtraLight.ttf */; };
-		CE9754592D0F13AD00ECC278 /* Poppins-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE9754292D0F13AD00ECC278 /* Poppins-ExtraLightItalic.ttf */; };
-		CE97545A2D0F13AD00ECC278 /* Poppins-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE97542A2D0F13AD00ECC278 /* Poppins-Italic.ttf */; };
-		CE97545B2D0F13AD00ECC278 /* Poppins-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE97542B2D0F13AD00ECC278 /* Poppins-Light.ttf */; };
-		CE97545C2D0F13AD00ECC278 /* Poppins-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE97542C2D0F13AD00ECC278 /* Poppins-LightItalic.ttf */; };
 		CE97545D2D0F13AD00ECC278 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE97542D2D0F13AD00ECC278 /* Poppins-Medium.ttf */; };
-		CE97545E2D0F13AD00ECC278 /* Poppins-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE97542E2D0F13AD00ECC278 /* Poppins-MediumItalic.ttf */; };
 		CE97545F2D0F13AD00ECC278 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE97542F2D0F13AD00ECC278 /* Poppins-Regular.ttf */; };
 		CE9754602D0F13AD00ECC278 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE9754302D0F13AD00ECC278 /* Poppins-SemiBold.ttf */; };
-		CE9754612D0F13AD00ECC278 /* Poppins-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE9754312D0F13AD00ECC278 /* Poppins-SemiBoldItalic.ttf */; };
-		CE9754622D0F13AD00ECC278 /* Poppins-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE9754322D0F13AD00ECC278 /* Poppins-Thin.ttf */; };
-		CE9754632D0F13AD00ECC278 /* Poppins-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE9754332D0F13AD00ECC278 /* Poppins-ThinItalic.ttf */; };
 		CE9754642D0F13AD00ECC278 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE9754432D0F13AD00ECC278 /* Preview Assets.xcassets */; };
 		CE9754652D0F13AD00ECC278 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE9754452D0F13AD00ECC278 /* Assets.xcassets */; };
-		CE9754692D0F13AD00ECC278 /* Weather_TrackerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9754662D0F13AD00ECC278 /* Weather_TrackerUITests.swift */; };
-		CE97546A2D0F13AD00ECC278 /* Weather_TrackerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9754672D0F13AD00ECC278 /* Weather_TrackerUITestsLaunchTests.swift */; };
-		CE97546D2D0F13AD00ECC278 /* Weather_TrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE97546B2D0F13AD00ECC278 /* Weather_TrackerTests.swift */; };
 		CE97546F2D0F13BD00ECC278 /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE97546E2D0F13BD00ECC278 /* API.swift */; };
 		CE9754722D0F13DD00ECC278 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = CE9754712D0F13DD00ECC278 /* Alamofire */; };
 		CE9754742D0F140700ECC278 /* RepositoryProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9754732D0F140700ECC278 /* RepositoryProtocol.swift */; };
-		CE9754762D0F144D00ECC278 /* WeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9754752D0F144D00ECC278 /* WeatherData.swift */; };
+		CE9754762D0F144D00ECC278 /* WeatherApiResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9754752D0F144D00ECC278 /* WeatherApiResponse.swift */; };
 		CE9754782D0F14EE00ECC278 /* CityData.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9754772D0F14EE00ECC278 /* CityData.swift */; };
 		CE97547A2D0F150700ECC278 /* CityModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9754792D0F150700ECC278 /* CityModel.swift */; };
 		CE97547C2D0F153C00ECC278 /* DataExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE97547B2D0F153C00ECC278 /* DataExtension.swift */; };
@@ -52,6 +34,7 @@
 		CE9754852D0F27C200ECC278 /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = CE9754842D0F27C200ECC278 /* Kingfisher */; };
 		CE9754872D0F29F200ECC278 /* WeatherError.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9754862D0F29F200ECC278 /* WeatherError.swift */; };
 		CE9754892D0F2A8700ECC278 /* SnackBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9754882D0F2A8700ECC278 /* SnackBarView.swift */; };
+		CE97548B2D0F306C00ECC278 /* MainViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE97548A2D0F306C00ECC278 /* MainViewModelTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,24 +59,9 @@
 		CE9753C42D0F019300ECC278 /* Weather TrackerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Weather TrackerTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE9753CE2D0F019300ECC278 /* Weather TrackerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Weather TrackerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE9754202D0F13AD00ECC278 /* ViewExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewExtensions.swift; sourceTree = "<group>"; };
-		CE9754222D0F13AD00ECC278 /* Poppins-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Black.ttf"; sourceTree = "<group>"; };
-		CE9754232D0F13AD00ECC278 /* Poppins-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-BlackItalic.ttf"; sourceTree = "<group>"; };
-		CE9754242D0F13AD00ECC278 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
-		CE9754252D0F13AD00ECC278 /* Poppins-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-BoldItalic.ttf"; sourceTree = "<group>"; };
-		CE9754262D0F13AD00ECC278 /* Poppins-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ExtraBold.ttf"; sourceTree = "<group>"; };
-		CE9754272D0F13AD00ECC278 /* Poppins-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
-		CE9754282D0F13AD00ECC278 /* Poppins-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ExtraLight.ttf"; sourceTree = "<group>"; };
-		CE9754292D0F13AD00ECC278 /* Poppins-ExtraLightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
-		CE97542A2D0F13AD00ECC278 /* Poppins-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Italic.ttf"; sourceTree = "<group>"; };
-		CE97542B2D0F13AD00ECC278 /* Poppins-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Light.ttf"; sourceTree = "<group>"; };
-		CE97542C2D0F13AD00ECC278 /* Poppins-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-LightItalic.ttf"; sourceTree = "<group>"; };
 		CE97542D2D0F13AD00ECC278 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Medium.ttf"; sourceTree = "<group>"; };
-		CE97542E2D0F13AD00ECC278 /* Poppins-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-MediumItalic.ttf"; sourceTree = "<group>"; };
 		CE97542F2D0F13AD00ECC278 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Regular.ttf"; sourceTree = "<group>"; };
 		CE9754302D0F13AD00ECC278 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
-		CE9754312D0F13AD00ECC278 /* Poppins-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
-		CE9754322D0F13AD00ECC278 /* Poppins-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Thin.ttf"; sourceTree = "<group>"; };
-		CE9754332D0F13AD00ECC278 /* Poppins-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ThinItalic.ttf"; sourceTree = "<group>"; };
 		CE9754342D0F13AD00ECC278 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 		CE9754362D0F13AD00ECC278 /* CurrentTemperatureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentTemperatureView.swift; sourceTree = "<group>"; };
 		CE9754372D0F13AD00ECC278 /* DetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsView.swift; sourceTree = "<group>"; };
@@ -105,12 +73,9 @@
 		CE9754432D0F13AD00ECC278 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CE9754452D0F13AD00ECC278 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE9754462D0F13AD00ECC278 /* Weather_TrackerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather_TrackerApp.swift; sourceTree = "<group>"; };
-		CE9754662D0F13AD00ECC278 /* Weather_TrackerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather_TrackerUITests.swift; sourceTree = "<group>"; };
-		CE9754672D0F13AD00ECC278 /* Weather_TrackerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather_TrackerUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		CE97546B2D0F13AD00ECC278 /* Weather_TrackerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather_TrackerTests.swift; sourceTree = "<group>"; };
 		CE97546E2D0F13BD00ECC278 /* API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
 		CE9754732D0F140700ECC278 /* RepositoryProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepositoryProtocol.swift; sourceTree = "<group>"; };
-		CE9754752D0F144D00ECC278 /* WeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherData.swift; sourceTree = "<group>"; };
+		CE9754752D0F144D00ECC278 /* WeatherApiResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherApiResponse.swift; sourceTree = "<group>"; };
 		CE9754772D0F14EE00ECC278 /* CityData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityData.swift; sourceTree = "<group>"; };
 		CE9754792D0F150700ECC278 /* CityModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityModel.swift; sourceTree = "<group>"; };
 		CE97547B2D0F153C00ECC278 /* DataExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataExtension.swift; sourceTree = "<group>"; };
@@ -118,6 +83,7 @@
 		CE9754812D0F270700ECC278 /* NoCitySelectedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoCitySelectedView.swift; sourceTree = "<group>"; };
 		CE9754862D0F29F200ECC278 /* WeatherError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherError.swift; sourceTree = "<group>"; };
 		CE9754882D0F2A8700ECC278 /* SnackBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnackBarView.swift; sourceTree = "<group>"; };
+		CE97548A2D0F306C00ECC278 /* MainViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewModelTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,7 +118,6 @@
 			children = (
 				CE9754472D0F13AD00ECC278 /* Weather Tracker */,
 				CE97546C2D0F13AD00ECC278 /* Weather TrackerTests */,
-				CE9754682D0F13AD00ECC278 /* Weather TrackerUITests */,
 				CE9753B52D0F019100ECC278 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -179,24 +144,9 @@
 		CE9754352D0F13AD00ECC278 /* Fonts */ = {
 			isa = PBXGroup;
 			children = (
-				CE9754222D0F13AD00ECC278 /* Poppins-Black.ttf */,
-				CE9754232D0F13AD00ECC278 /* Poppins-BlackItalic.ttf */,
-				CE9754242D0F13AD00ECC278 /* Poppins-Bold.ttf */,
-				CE9754252D0F13AD00ECC278 /* Poppins-BoldItalic.ttf */,
-				CE9754262D0F13AD00ECC278 /* Poppins-ExtraBold.ttf */,
-				CE9754272D0F13AD00ECC278 /* Poppins-ExtraBoldItalic.ttf */,
-				CE9754282D0F13AD00ECC278 /* Poppins-ExtraLight.ttf */,
-				CE9754292D0F13AD00ECC278 /* Poppins-ExtraLightItalic.ttf */,
-				CE97542A2D0F13AD00ECC278 /* Poppins-Italic.ttf */,
-				CE97542B2D0F13AD00ECC278 /* Poppins-Light.ttf */,
-				CE97542C2D0F13AD00ECC278 /* Poppins-LightItalic.ttf */,
 				CE97542D2D0F13AD00ECC278 /* Poppins-Medium.ttf */,
-				CE97542E2D0F13AD00ECC278 /* Poppins-MediumItalic.ttf */,
 				CE97542F2D0F13AD00ECC278 /* Poppins-Regular.ttf */,
 				CE9754302D0F13AD00ECC278 /* Poppins-SemiBold.ttf */,
-				CE9754312D0F13AD00ECC278 /* Poppins-SemiBoldItalic.ttf */,
-				CE9754322D0F13AD00ECC278 /* Poppins-Thin.ttf */,
-				CE9754332D0F13AD00ECC278 /* Poppins-ThinItalic.ttf */,
 				CE9754342D0F13AD00ECC278 /* Theme.swift */,
 			);
 			path = Fonts;
@@ -246,7 +196,7 @@
 			isa = PBXGroup;
 			children = (
 				CE9754792D0F150700ECC278 /* CityModel.swift */,
-				CE9754752D0F144D00ECC278 /* WeatherData.swift */,
+				CE9754752D0F144D00ECC278 /* WeatherApiResponse.swift */,
 				CE9754772D0F14EE00ECC278 /* CityData.swift */,
 				CE9754402D0F13AD00ECC278 /* WeatherModel.swift */,
 			);
@@ -286,19 +236,10 @@
 			path = "Weather Tracker";
 			sourceTree = "<group>";
 		};
-		CE9754682D0F13AD00ECC278 /* Weather TrackerUITests */ = {
-			isa = PBXGroup;
-			children = (
-				CE9754662D0F13AD00ECC278 /* Weather_TrackerUITests.swift */,
-				CE9754672D0F13AD00ECC278 /* Weather_TrackerUITestsLaunchTests.swift */,
-			);
-			path = "Weather TrackerUITests";
-			sourceTree = "<group>";
-		};
 		CE97546C2D0F13AD00ECC278 /* Weather TrackerTests */ = {
 			isa = PBXGroup;
 			children = (
-				CE97546B2D0F13AD00ECC278 /* Weather_TrackerTests.swift */,
+				CE97548A2D0F306C00ECC278 /* MainViewModelTests.swift */,
 			);
 			path = "Weather TrackerTests";
 			sourceTree = "<group>";
@@ -420,24 +361,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CE9754522D0F13AD00ECC278 /* Poppins-Black.ttf in Resources */,
-				CE9754532D0F13AD00ECC278 /* Poppins-BlackItalic.ttf in Resources */,
-				CE9754542D0F13AD00ECC278 /* Poppins-Bold.ttf in Resources */,
-				CE9754552D0F13AD00ECC278 /* Poppins-BoldItalic.ttf in Resources */,
-				CE9754562D0F13AD00ECC278 /* Poppins-ExtraBold.ttf in Resources */,
-				CE9754572D0F13AD00ECC278 /* Poppins-ExtraBoldItalic.ttf in Resources */,
-				CE9754582D0F13AD00ECC278 /* Poppins-ExtraLight.ttf in Resources */,
-				CE9754592D0F13AD00ECC278 /* Poppins-ExtraLightItalic.ttf in Resources */,
-				CE97545A2D0F13AD00ECC278 /* Poppins-Italic.ttf in Resources */,
-				CE97545B2D0F13AD00ECC278 /* Poppins-Light.ttf in Resources */,
-				CE97545C2D0F13AD00ECC278 /* Poppins-LightItalic.ttf in Resources */,
 				CE97545D2D0F13AD00ECC278 /* Poppins-Medium.ttf in Resources */,
-				CE97545E2D0F13AD00ECC278 /* Poppins-MediumItalic.ttf in Resources */,
 				CE97545F2D0F13AD00ECC278 /* Poppins-Regular.ttf in Resources */,
 				CE9754602D0F13AD00ECC278 /* Poppins-SemiBold.ttf in Resources */,
-				CE9754612D0F13AD00ECC278 /* Poppins-SemiBoldItalic.ttf in Resources */,
-				CE9754622D0F13AD00ECC278 /* Poppins-Thin.ttf in Resources */,
-				CE9754632D0F13AD00ECC278 /* Poppins-ThinItalic.ttf in Resources */,
 				CE9754642D0F13AD00ECC278 /* Preview Assets.xcassets in Resources */,
 				CE9754652D0F13AD00ECC278 /* Assets.xcassets in Resources */,
 			);
@@ -483,7 +409,7 @@
 				CE9754502D0F13AD00ECC278 /* WeatherModel.swift in Sources */,
 				CE9754822D0F270700ECC278 /* NoCitySelectedView.swift in Sources */,
 				CE9754512D0F13AD00ECC278 /* Weather_TrackerApp.swift in Sources */,
-				CE9754762D0F144D00ECC278 /* WeatherData.swift in Sources */,
+				CE9754762D0F144D00ECC278 /* WeatherApiResponse.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -491,7 +417,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CE97546D2D0F13AD00ECC278 /* Weather_TrackerTests.swift in Sources */,
+				CE97548B2D0F306C00ECC278 /* MainViewModelTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -499,8 +425,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CE9754692D0F13AD00ECC278 /* Weather_TrackerUITests.swift in Sources */,
-				CE97546A2D0F13AD00ECC278 /* Weather_TrackerUITestsLaunchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

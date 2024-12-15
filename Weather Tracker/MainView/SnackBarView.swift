@@ -20,13 +20,10 @@ public struct SnackBarView: View {
     public var body: some View {
         HStack {
             Text(message)
-                .font(Fonts.titleSmall)
+                .font(.titleSmall)
                 .foregroundStyle(.white)
                 .padding(24)
             Spacer()
-            
-            
-            
         }.roundedBackground(bgColor: Color(.red))
             .padding(16)
     }
@@ -34,5 +31,5 @@ public struct SnackBarView: View {
 
 #Preview {
     SnackBarView(message: "Text message")
-        .loadFontsForPreviews()
+        .loadFonts()
 }

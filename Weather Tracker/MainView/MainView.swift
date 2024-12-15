@@ -65,5 +65,5 @@ struct MainView: View {
         viewModel: MainViewModel(
             repository: WeatherRepository()
         )
-    ).loadFontsForPreviews()
+    ).loadFonts()
 }

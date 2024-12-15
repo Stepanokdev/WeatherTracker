@@ -18,6 +18,11 @@ extension View {
                 .foregroundColor(bgColor)
         }
     }
+    
+    public func loadFonts() -> some View {
+        Font.registerFonts()
+        return self
+    }
 }
 
 public func doAfter(_ delay: TimeInterval? = nil, _ closure: @escaping () -> Void) {

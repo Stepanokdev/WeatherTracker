@@ -38,5 +38,5 @@ struct InformationView: View {
 
 #Preview {
     InformationView(model: WeatherModel.mock)
-        .loadFontsForPreviews()
+        .loadFonts()
 }

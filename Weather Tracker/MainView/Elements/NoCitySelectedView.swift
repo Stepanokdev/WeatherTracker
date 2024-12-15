@@ -11,14 +11,14 @@ struct NoCitySelectedView: View {
     var body: some View {
         VStack {
             Text("No City Selected")
-                .font(Fonts.displaySmall)
+                .font(.displaySmall)
             Text("Please Search For A City")
-                .font(Fonts.labelLarge)
+                .font(.labelLarge)
         }
     }
 }
 
 #Preview {
     NoCitySelectedView()
-        .loadFontsForPreviews()
+        .loadFonts()
 }
